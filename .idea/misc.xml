@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/circular_progress_gray.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/item_circular_thin_color_accent_border.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/drawable_radio_group_tab_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/drawable_units_tab_text_color_selector.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/drawable_unitys_tab_selector.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/item_circular_color_accent_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/item_circular_color_accent_border.xml" value="0.10077209472656251" />
+        <entry key="app/src/main/res/drawable/item_circular_color_gray_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/item_color_accent_border_ripple_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/items_row.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/timer_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_bmi.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_bmi_activity.xml" value="0.3105808673518719" />
+        <entry key="app/src/main/res/layout/activity_bmiactivity.xml" value="0.1887031408308004" />
+        <entry key="app/src/main/res/layout/activity_exercise.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_history.xml" value="0.20342329463939415" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.28030090332031254" />
+        <entry key="app/src/main/res/layout/activity_timer.xml" value="0.20162932790224034" />
+        <entry key="app/src/main/res/layout/dialog_custom_back_confirmation.xml" value="0.3255355834960938" />
+        <entry key="app/src/main/res/layout/dialog_update_record.xml" value="0.19645284016927086" />
+        <entry key="app/src/main/res/layout/finish_activity.xml" value="0.2533447265625" />
+        <entry key="app/src/main/res/layout/finish_screen.xml" value="0.25903472900390634" />
+        <entry key="app/src/main/res/layout/item_exercise_status.xml" value="0.3449050903320313" />
+        <entry key="app/src/main/res/layout/items_row.xml" value="0.3504185994466146" />
+        <entry key="app/src/main/res/layout/text_to_speech.xml" value="0.19043579101562508" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
